@@ -36,7 +36,7 @@ This project is a Spring Boot-based application designed to manage dealers and t
   - `DB_HOST`: Database connection URL (e.g., `jdbc:postgresql://localhost:5432/your_database`)
   - `DB_USERNAME`: Database username
   - `DB_PASSWORD`: Database password
-  - `DB_SCHEMA`: Database schema (e.g., `bluadmin`)
+  - `DB_SCHEMA`: Database schema (e.g., `dvm`)
 
 ## Setup Instructions
 1. **Clone the Repository**:
